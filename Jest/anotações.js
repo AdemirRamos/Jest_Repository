@@ -6,6 +6,6 @@
 
     O comando (sem aspas) "npx jest --watchAll" monitora os nossos arquivos de testes e os executa a cada nova mudança.
 
-    Os comandos (sem aspas) "npm test" e "npm run test" (esse segundo foi configurado em "scripts" - no arquivo json) roram os testes.
+    Os comandos (sem aspas) "npm test" e "npm run test" (esse segundo foi configurado em "scripts" - no arquivo json) rodam os testes.
 
 */
