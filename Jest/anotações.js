@@ -8,4 +8,8 @@
 
     Os comandos (sem aspas) "npm test" e "npm run test" (esse segundo foi configurado em "scripts" - no arquivo json) rodam os testes.
 
+    Comandos CLI ("command-line interface") do Jest: https://jestjs.io/pt-BR/docs/cli
+
+    Iniciando no Jest: https://jestjs.io/pt-BR/docs/getting-started
+
 */
