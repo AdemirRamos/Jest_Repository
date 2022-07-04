@@ -12,4 +12,6 @@
 
     Iniciando no Jest: https://jestjs.io/pt-BR/docs/getting-started
 
+    Jest Sintaxe: https://www.devmedia.com.br/teste-unitario-com-jest/41234
+
 */
